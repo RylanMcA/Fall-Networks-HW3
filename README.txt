@@ -1,5 +1,5 @@
 Name: Rylan McAlsiter
-UA ID: 010794211
+UA ID: *redacted*
 
 This is a TCP server/client bundle that acts as a ATM.
 
