@@ -12,4 +12,4 @@ withdraw =  which allows users to take money out of the bank. It will then ask t
 balance  =  which allows users to check the balance in the bank
 logout   =  which logs the user out of the client 
 
-The program will automatically make all the lowercase and remove any whitespace. 
+The program will automatically make all the inputs lowercase and remove any whitespace. 
